@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="1dip"
         android:layout_marginStart="1dip"
-        android:focusable="true"
-        android:focusableInTouchMode="true" />
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
 
     <NumberPicker
         android:id="@+id/year"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="1dip"
         android:layout_marginStart="1dip"
-        android:focusable="true"
-        android:focusableInTouchMode="true" />
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
 
 </LinearLayout>
